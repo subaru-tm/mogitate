@@ -36,11 +36,19 @@
  
 - シンボリックリンク
   - php artisan storage:link
-    - 実行後メッセージ "The [/var/www/public/storage] link has been connected to [/var/www/storage/app/public].
+    - 実行後メッセージ       "The [/var/www/public/storage] link has been connected to [/var/www/storage/app/public].
 The links have been created."
 
 - フォームリクエスト
   - php artisan make:request ProductRequest
 
 ## 使用技術（実行環境）
-- 
+- Laravel Framework 8.83.8
+  - php
+  - nginx:1.21.1
+  - mysql:8.0.26
+ 
+## ER図
+
+## URL
+- 開発環境: http://localhost/
