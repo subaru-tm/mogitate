@@ -1,0 +1,86 @@
+.detail {
+    background: #F5F5F5;
+}
+
+.detail__heading {
+    padding-top: 48px;
+    width: 55%;
+    text-align: center;
+}
+
+.detail__heading-link {
+    text-decoration: none;
+}
+
+.detail__content {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.detail__content-info-group {
+    display: flex;
+}
+
+.detail__content-info-img {
+    margin: 0;
+    text-align: left;
+}
+
+.detail__content-info-img img {
+    margin-left: 0;
+    height: 200px;
+    text-align: left;
+}
+
+.detail__content-info-items {
+    margin-left: 10px;
+}
+
+.form-items__group input {
+    padding: 3px 8px;
+    width: 100%;
+    height: 42px;
+    border: 1px solid #C0C0C0;
+    border-radius: 3px;
+}
+
+.form-items__group--season span {
+    margin-right: 10px;
+}
+
+.detail__footer {
+    margin-top: 24px;
+    height: 42px;
+    text-align: center;
+}
+
+.form-items__button-reverse {
+    margin: 12px;
+    padding: 8px 60px;
+    width: 160px;
+    height: 40px;
+    background: #D3D3D3;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px -2px #696969;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.form-items__button-submit {
+    padding: 8px 40px;
+    width: 160px;
+    height: 40px;
+    background: #F8B400;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px -2px #696969;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+
+.form-delete__img {
+    text-align: right;
+    margin-right: 18px;
+    margin_bottom: 18px;
+}

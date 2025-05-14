@@ -1,0 +1,13 @@
+.header__inner {
+    height: 40px;
+    background: #fff;
+}
+
+.header__logo {
+    margin:5px auto;
+    margin-left: 12px;
+    padding: 5px;
+    text-decoration: none;
+    color: #FFA500;
+    font-size: 20px
+}

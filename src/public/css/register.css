@@ -1,0 +1,117 @@
+.register-content {
+    background: #F5F5F5;
+}
+
+.register-heading {
+    margin: 0 auto;
+    padding-top: 24px;
+    width: 50%;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.register-form {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.input-form__group {
+    margin-bottom: 15px;
+}
+
+.input-form__group-title {
+    font-size: 14px;
+}
+
+.input-form__group-required {
+    margin-left: 3px;
+    padding: 1px 4px;
+    font-size: 10px;
+    background: #FF0000;
+    color: #fff;
+}
+
+.input-form__group-text {
+    margin: 10px 0;
+    margin-bottom: 1px;
+    width: 100%;
+}
+
+.input-form__group-text--box {
+    padding: 3px 8px;
+    width: 100%;
+    height: 42px;
+    border: 1px solid #C0C0C0;
+    border-radius: 3px;
+    color: #C0C0C0;
+}
+
+.form__error {
+    color: #FF0000;
+}
+
+.input-form__group-file {
+    margin-top: 10px;
+}
+
+.input-form__group-file--button {
+    color: #696969;
+}
+
+.input-form__group-multiple {
+    margin-left: 4px;
+    font-size: 10px;
+    color: #FF0000;
+}
+
+.input-form__group-season {
+    margin-top: 10px;
+}
+
+.input-form__group-season--option {
+    cursor: pointer;
+}
+
+.input-form__group-season--label {
+    margin-right: 42px;
+    font-size: 14px;
+}
+
+.input-form__group-text--area {
+    padding: 12px 8px;
+    width: 100%;
+    height: 120px;
+    border: 1px solid #C0C0C0;
+    border-radius: 3px;
+    color: #C0C0C0;
+}
+
+.input-form__button {
+    margin-top: 24px;
+    height: 84px;
+    text-align: center;
+}
+
+.input-form__button-reverse {
+    margin: 12px;
+    padding: 8px 60px;
+    width: 160px;
+    height: 40px;
+    background: #D3D3D3;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px -2px #696969;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.input-form__button-submit {
+    padding: 8px 60px;
+    width: 160px;
+    height: 40px;
+    background: #F8B400;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px -2px #696969;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
