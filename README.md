@@ -1,6 +1,4 @@
-# アプリケーション名
-- mogitate
-
+# mogitate
 ## 環境構築
 - Dockerビルド
   - docker-compose up -d --build
@@ -49,6 +47,7 @@ The links have been created."
   - mysql:8.0.26
  
 ## ER図
+![image](https://github.com/user-attachments/assets/406c1089-782f-4274-b739-e5f8db38bd0a)
 
 ## URL
 - 開発環境: http://localhost/
